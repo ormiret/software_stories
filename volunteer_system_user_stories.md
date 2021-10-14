@@ -20,6 +20,11 @@
       - At any time during event
       - In specified time windows
 
+* See the terms and conditions / data use / privacy policy
+    - Confirming:
+      - agreement to these terms
+      - awareness it may be updated at any time and it's my responsibility to check
+
 * View all roles
     - Change which I'm interested in doing 
 
@@ -69,6 +74,8 @@
         + End time
         + Minimum number needed
         + Maximum number needed
+        + Any restrictions on rest-breaks between their next shifts
+        + Information on when and where to meet to start the shift (and whom to look for?)
     - By:
         + Manually entering details
         + Importing details from 
@@ -82,6 +89,7 @@
             * Number of shifts
             * Whether to repeat for all days (e.g. bar could have
               different opening hours based on day)
+              
     - Have the opportunity to preview any created shifts or changes
       made to shifts before confirming them (especially for importing
       or creating from parameters). - new feature
@@ -102,6 +110,7 @@
       cover now
     - Volunteers signed up to particular shift(s)
     - Combinations of the above
+    - All (scheduled) tent stewards to relay information during introduction/closing remarks
 * View which volunteers are currently in which shifts
 * View which current shifts require volunteers 
 * View which upcoming shifts require volunteers
@@ -116,6 +125,8 @@
       + Description
       + Instructions
       + If you'll be "supervising" volunteers or want that handled by volunteer team
+      + If the volunteer will be volunteering solo, or with others
+      + Details about shift hand-over (if not in description)
     - Venue(s)
       + Name
       + Location
@@ -138,6 +149,7 @@ Other things that could be useful (but can be ignored by anyone who doesn't find
 * Mark a volunteer as having arrived to work a shift
 * Mark a volunteer as having completed or abandoned a shift (handing 
 out a food token as appropriate)
+* Visual displays of "HELP NEEDED: Main Bar!" or "HELP NEEDED: AV in Stage 2" around the site?
 
 > Example use case for this is the bar. They have some practical training to give at the start of a volunteers first shift so want a way to track/see who is on their first bar shift for a particular shift to know how many people they need to do training for and to track when they've all arrived.  
 
